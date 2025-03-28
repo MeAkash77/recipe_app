@@ -1,6 +1,6 @@
 Here is the demo of this project
 
-[Demo Link](https://utkarsh-recipe-site.netlify.app) 
+[Demo Link](https://akash77-receipe-app.netlify.app/) 
 
 # React Recipe App
 
